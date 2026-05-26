@@ -3,7 +3,7 @@
 print("=== Dia 1 - Início da Transição de Carreira ===")
 print("25 de maio de 2026\n")
 
-nome = "Seu Nome Aqui"   # Troque pelo seu nome
+nome = "Andre Gomes"   # Troque pelo seu nome
 idade = 42
 
 print(f"Olá, meu nome é {nome} e tenho {idade} anos.")
