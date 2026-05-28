@@ -31,4 +31,8 @@ print(f"\nGastos altos: {altos}")
 dobrados = list(map(lambda x: x * 2, valores))
 print(f"Valores dobrados: {dobrados}")
 
+numeros = {1, 2, 3, 3, 2}
+print(numeros)
+
+
 print("\nDia 3 concluído com sucesso!")
